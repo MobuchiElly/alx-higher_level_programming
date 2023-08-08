@@ -7,4 +7,4 @@ if l_digt > 5:
 if l_digt == 0:
     print(f'Last digit of {number} is {l_digt} and is 0')
 if l_digt < 6 and not l_digt == 0:
-    print(f'Last digit of {number} is -{l_digt} and is less than 6 and not 0')
+    print(f'Last digit of {number} is {l_digt} and is less than 6 and not 0')

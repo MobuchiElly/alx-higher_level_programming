@@ -5,4 +5,3 @@ def uppercase(str):
             print("{0}".format(chr(ord(str[i])-32)), end="")
         else:
             print("{0}".format(str[i]), end="")
-uppercase('best Upper')
